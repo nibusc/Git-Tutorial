@@ -1,2 +1,6 @@
 Hello how are you?
+<<<<<<< HEAD
 fine
+=======
+fine. what about you?
+>>>>>>> ui
